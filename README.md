@@ -17,3 +17,5 @@ With assistance of this app the users will not forget to buy their things which 
 This application is build in kotlin language. With MVVM and Room Database Technology.
 This application is user friendly i.e the users will be able to add and delete the grocery items
 as per their Convenience.
+
+This repository contains project report and also a demo video, for demonstrating the application.
